@@ -19,6 +19,6 @@ for (i=0,b; i<5;i++,b++)
 printf("\n%d", c[i]);
 
     }
-
+//idite nahuj suka blyat
     return 0;
 }
